@@ -1,0 +1,7 @@
+streamlit>=1.20.0
+requests
+faiss-cpu
+numpy
+tqdm
+PyPDF2
+python-dotenv

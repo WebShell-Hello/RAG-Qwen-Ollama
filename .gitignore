@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+wm_manual.faiss
+wm_manual_meta.json
+logs/
+/venv/
